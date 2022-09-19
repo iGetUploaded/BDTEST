@@ -16,17 +16,3 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128&family=Libre+Barcode+128+Text&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 
-/*chillax squad font and colour change*/
-[href='https\:\/\/github.com/iGetUploaded/BDTEST#author']{
-  font-family: 'Libre Barcode 128 Text';
-  color:rgb(255, 161, 161)!important;
-  font-weight: 400;
-  font-size: 25px;
-}
-[href='https\:\/\/github.com/iGetUploaded/BDTEST#author']:hover{
-  font-family: 'Libre Barcode 128';
-  color:rgb(255, 161, 161)!important;
-  font-weight: 400;
-  font-size: 25px;
-}
-
